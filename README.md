@@ -54,5 +54,4 @@ Open Stata in the project folder and run:
 do code/run_all.do
 ```
 
-## Author
-PhD Candidate in Population & Quantitative Health Science
+
