@@ -24,10 +24,6 @@ wilms-tumor-survival-analysis-stata/
 │   ├── 04_forest_plot_and_parametric.do
 │   ├── run_all.do
 │   └── original_full_workflow.do
-├── data/
-└── results/
-    ├── figures/
-    └── tables/
 ```
 
 ## Main methods
