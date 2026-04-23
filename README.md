@@ -59,4 +59,4 @@ do code/run_all.do
 ```
 
 ## Author
-PhD Candidate in Biostatistics
+PhD Candidate in Population & Quantitative Health Science
